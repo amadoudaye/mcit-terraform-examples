@@ -10,11 +10,11 @@ variable "service_names_town" {
 }
 
 variable "firstname" {
-  default = "Amadou"
+  default = "John"
 }
 
 variable "lastname" {
-  default = "Diallo"
+  default = "Doe"
 }
 
 variable "env_string" {
